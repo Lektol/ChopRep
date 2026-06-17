@@ -1,0 +1,27 @@
+{
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 1138,
+    "openedLevels": 2,
+    "typePlane2": 5,
+    "trees": 847048,
+    "typePlane": 5,
+    "axes": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+    ]
+}

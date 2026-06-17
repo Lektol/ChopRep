@@ -1,0 +1,3 @@
+﻿Build path: C:/Users/PC/Desktop/Games/LUMBERJACK/YandexBuilds/Yandex2-3
+Build number: 10
+PluginYG version: 2.009
